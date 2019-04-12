@@ -1,7 +1,7 @@
 body {
   background-image: url(../img/nza_background.jpg);
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 
 .stooges {
@@ -70,8 +70,31 @@ body {
 
 #bottom_footer ul li {
   display: inline;
+  padding: 0 15px;
+  font-size: 12px;
+}
+
+#bottom_footer ul li a {
+  color: black;
+}
+
+hr.bottom-divide {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.bottom-divide {
+    border-top: 1px solid black;
 }
 
 .col-md-12.legal {
     text-align: center;
+}
+
+.col-md-12.legal p {
+    color: #c0c0c0;
+}
+
+.col-md-12.legal p small a {
+    color: #c0c0c0;
 }
