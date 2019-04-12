@@ -1,0 +1,77 @@
+body {
+  background-image: url(../img/nza_background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.stooges {
+  background-color: white;
+  padding: 40px 60px 5px;
+  margin-bottom: 100px;
+  box-shadow: 0px 0px 20px #505050;
+}
+
+.news p {
+  font-size: 10px;
+}
+
+.news hr {
+  border: 1px solid white;
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+
+.news  h5 {
+  font-size: 15px;
+}
+
+.news {
+  background-color: rgba(179, 36, 0, 1);
+  color: white;
+  padding: 20px 10px;
+}
+
+.row.welcome {
+    margin-top: 45px;
+}
+
+#top_footer {
+  margin: 30px 0px;
+}
+
+#top_footer ul {
+  list-style: none;
+  border-top: 1px solid black;
+  border-bottom: 1px solid #000;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+#top_footer ul li a {
+  color: black;
+  /* font-size: 12px; */
+}
+
+#top_footer ul li {
+  color: black;
+  padding: 5px 20px;
+  display: inline;
+}
+
+#top_footer ul span {
+  padding: 5px 20px;
+}
+
+#bottom_footer ul {
+  list-style: none;
+  text-align: center;
+}
+
+#bottom_footer ul li {
+  display: inline;
+}
+
+.col-md-12.legal {
+    text-align: center;
+}
