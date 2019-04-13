@@ -98,3 +98,12 @@ hr.bottom-divide {
 .col-md-12.legal p small a {
     color: #c0c0c0;
 }
+
+.location {
+  background-color: lightgrey;
+  padding: 10px;
+}
+
+.contact {
+  margin-bottom: 300px;
+}
