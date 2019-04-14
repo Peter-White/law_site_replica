@@ -99,7 +99,20 @@ p {
   color: black;
 }
 
-.what {
+.a-l, .m-n, .o-w {
+  padding-right: 15px;
+  list-style: none;
+}
+
+.a-l, .m-n {
+  float: left;
+}
+
+.c-n {
+  list-style: none;
+}
+
+.what, .where {
   margin-bottom: 60px;
 }
 
