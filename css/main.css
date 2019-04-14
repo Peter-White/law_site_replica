@@ -15,8 +15,25 @@ p {
   box-shadow: 0px 0px 20px #505050;
 }
 
+.row.imageGallery .col-md-6 {
+    padding-top: 20px;
+}
+
+.imageGallery {
+  margin-bottom: 70px;
+}
+
 .news p {
-  font-size: 10px;
+  font-size: 12px;
+}
+
+.news ul {
+  list-style: none;
+  font-size: 12px;
+}
+
+.news ul li a {
+  color: white;
 }
 
 .news hr {
@@ -25,7 +42,7 @@ p {
   margin-bottom: 10px;
 }
 
-.news  h5 {
+.news h5 {
   font-size: 15px;
 }
 
