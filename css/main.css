@@ -46,6 +46,10 @@ p {
   font-size: 15px;
 }
 
+.news img {
+  margin-bottom: 15px;
+}
+
 .news {
   background-color: rgba(179, 36, 0, 1);
   color: white;
