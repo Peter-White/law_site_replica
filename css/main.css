@@ -120,7 +120,7 @@ Who We Are
 /*********************************************
 Where
 *********************************************/
-.col-md-8.usa ul, .col-md-4.other ul {
+.col-md-8.usa ul, .col-md-4.intter ul {
   padding: 0;
 }
 
@@ -137,7 +137,7 @@ Where
   list-style: none;
 }
 
-.col-md-8.usa ul li, .col-md-4.other ul li {
+.col-md-8.usa ul li, .col-md-4.intter ul li {
   padding-right: 70px;
   font-size: 14px;
 }
@@ -192,6 +192,10 @@ hr.bottom-divide {
 .location {
   background-color: lightgrey;
   padding: 10px;
+}
+
+.location a {
+  color: black;
 }
 
 .contact {
