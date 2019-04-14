@@ -99,6 +99,10 @@ p {
   color: black;
 }
 
+.what {
+  margin-bottom: 60px;
+}
+
 hr.bottom-divide {
   margin-top: 0px;
   margin-bottom: 0px;
