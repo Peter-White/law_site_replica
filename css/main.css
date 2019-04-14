@@ -4,6 +4,10 @@ body {
   background-size: cover;
 }
 
+p {
+  font-size: 14px;
+}
+
 .stooges {
   background-color: white;
   padding: 40px 60px 5px;
