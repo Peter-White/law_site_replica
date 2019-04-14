@@ -13,7 +13,7 @@ News Sibebar
 **************************************************************/
 
 .news {
-  background-color: rgba(153, 38, 0, 1);
+  background-color: rgba(128, 32, 0, 1);
   color: white;
   padding: 20px 10px;
 }
@@ -60,6 +60,124 @@ News Sibebar
 /*********************************************
 Index
 *********************************************/
+.stooges {
+  background-color: white;
+  padding: 40px 60px 5px;
+  margin-bottom: 100px;
+  box-shadow: 0px 0px 20px #505050;
+}
+
+.info p {
+  margin-bottom: 0px;
+}
+
+/*********************************************
+Who We Are
+*********************************************/
+.whoweare {
+  margin-bottom: 70px;
+}
+
+.row.imageGallery .col-md-6 {
+    padding-top: 20px;
+}
+
+.imageGallery {
+  margin-bottom: 70px;
+}
+
+/*********************************************
+Where
+*********************************************/
+.what, .where {
+  margin-bottom: 60px;
+}
+
+.where hr {
+  margin: 0px 0px 20px 0px;
+}
+
+.where h4 {
+  font-size: 14px;
+}
+
+.col-md-8.usa ul, .col-md-4.intter ul {
+  padding: 0;
+}
+
+.a-l, .m-n, .o-w {
+  padding-right: 15px;
+  list-style: none;
+}
+
+.a-l, .m-n {
+  float: left;
+}
+
+.c-n {
+  list-style: none;
+}
+
+.col-md-8.usa ul li, .col-md-4.intter ul li {
+  padding-right: 70px;
+  font-size: 14px;
+}
+
+.col-md-12.legal {
+  text-align: center;
+}
+
+.col-md-12.legal p {
+  color: #c0c0c0;
+}
+
+.col-md-12.legal p small a {
+  color: #c0c0c0;
+}
+
+/*********************************************
+What
+*********************************************/
+.row.what img {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.row.welcome {
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+/*********************************************
+Footer
+*********************************************/
+#bottom_footer ul {
+  list-style: none;
+  text-align: center;
+}
+
+#bottom_footer ul li {
+  display: inline;
+  padding: 0 15px;
+  font-size: 12px;
+}
+
+#bottom_footer ul li a {
+  color: black;
+}
+
+hr.bottom-divide {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.bottom-divide {
+  border-top: 1px solid black;
+}
+
+/*********************************************
+Header
+*********************************************/
 #top_footer {
   margin: 30px 0px;
 }
@@ -88,107 +206,9 @@ Index
   padding: 5px 20px;
 }
 
-#bottom_footer ul {
-  list-style: none;
-  text-align: center;
-}
-
-#bottom_footer ul li {
-  display: inline;
-  padding: 0 15px;
-  font-size: 12px;
-}
-
-#bottom_footer ul li a {
-  color: black;
-}
-
-.stooges {
-  background-color: white;
-  padding: 40px 60px 5px;
-  margin-bottom: 100px;
-  box-shadow: 0px 0px 20px #505050;
-}
-
 /*********************************************
-Who We Are
+Contact
 *********************************************/
-.whoweare {
-  margin-bottom: 70px;
-}
-
-/*********************************************
-Where
-*********************************************/
-.col-md-8.usa ul, .col-md-4.intter ul {
-  padding: 0;
-}
-
-.a-l, .m-n, .o-w {
-  padding-right: 15px;
-  list-style: none;
-}
-
-.a-l, .m-n {
-  float: left;
-}
-
-.c-n {
-  list-style: none;
-}
-
-.col-md-8.usa ul li, .col-md-4.intter ul li {
-  padding-right: 70px;
-  font-size: 14px;
-}
-
-
-.row.imageGallery .col-md-6 {
-    padding-top: 20px;
-}
-
-.imageGallery {
-  margin-bottom: 70px;
-}
-
-.row.welcome {
-    margin-top: 45px;
-}
-
-
-
-
-
-.what, .where {
-  margin-bottom: 60px;
-}
-
-.row.what img {
-    width: 100%;
-    margin-top: 30px;
-}
-
-hr.bottom-divide {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-
-.bottom-divide {
-    border-top: 1px solid black;
-}
-
-.col-md-12.legal {
-    text-align: center;
-}
-
-.col-md-12.legal p {
-    color: #c0c0c0;
-}
-
-.col-md-12.legal p small a {
-    color: #c0c0c0;
-}
-
 .location {
   background-color: lightgrey;
   padding: 10px;
