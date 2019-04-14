@@ -103,6 +103,11 @@ p {
   margin-bottom: 60px;
 }
 
+.row.what img {
+    width: 100%;
+    margin-top: 30px;
+}
+
 hr.bottom-divide {
   margin-top: 0px;
   margin-bottom: 0px;
